@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import sgMail from "@sendgrid/mail";
+import sgMail from "minitec.sailuker@gmail.com";
 
 const app = express();
 app.use(cors());
